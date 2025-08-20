@@ -1,2 +1,2 @@
-# Chatbot_for_jvai
+# jvai_policy_chatbot
 assignment
