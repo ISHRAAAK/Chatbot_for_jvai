@@ -1,0 +1,16 @@
+# Core
+numpy>=1.23
+tqdm>=4.66.1
+
+# PDF parsing
+PyMuPDF>=1.23.8
+
+# Vector search
+faiss-cpu>=1.7.4
+sentence-transformers>=2.6.0
+
+# Simple UI
+gradio>=4.44.0
+
+# Optional: if you want to use an LLM via OpenAI (not required)
+openai>=1.40.0
