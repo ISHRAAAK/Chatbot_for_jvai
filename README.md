@@ -60,15 +60,6 @@ This project builds a simple **AI-powered** chatbot that can answer questions ab
      Open http://127.0.0.1:7860 in your browser.
 
 > Optional LLM answers: set your key before running (totally optional)
->
-> **Windows (PowerShell)**:
-> ```pwsh
-> $env:OPENAI_API_KEY="sk-..."
-> ```
-> **macOS/Linux**:
-> ```bash
-> export OPENAI_API_KEY="sk-..."
-> ```
 
 ---
 
@@ -162,3 +153,4 @@ jvai_policy_chatbot/
 
 Good luck—you’ve got this 🚀
 >>>>>>> fee19ab (Initial Commit: JVAI policy chatbot)
+
