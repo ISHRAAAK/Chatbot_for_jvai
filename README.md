@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# jvai_policy_chatbot
-assignment
-=======
+
 # JVAI Policy Chatbot (Beginner-Friendly)
 
 This project builds a simple **AI-powered** chatbot that can answer questions about a financial policy PDF using **vector search** + (optional) LLM. It is designed for beginners and follows the exact assignment steps.
@@ -153,4 +150,5 @@ jvai_policy_chatbot/
 
 Good luck—you’ve got this 🚀
 >>>>>>> fee19ab (Initial Commit: JVAI policy chatbot)
+
 
